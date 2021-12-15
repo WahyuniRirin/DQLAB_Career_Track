@@ -1,2 +1,2 @@
-# DQLAB_Career_Track
+# Data Analyst Career Track by DQLAB
 Scripts Collection to Complete Data Analyst Career Track by DQLAB
